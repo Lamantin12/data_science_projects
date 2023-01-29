@@ -6,7 +6,7 @@
 </summary>
 Data taken from: 
 <a 
-href="(https://ieee-dataport.org/open-access/seer-breast-cancer-data)" title="link"> link
+href="(https://ieee-dataport.org/open-access/seer-breast-cancer-data)">link
 </a>
 
 Data contains 4024 rows of women ambulatory medical record cards
