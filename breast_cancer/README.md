@@ -25,17 +25,17 @@ If women has low chances, doctors can make desperate decisions in order to safe 
 
 You can find more information about data from [this](https://github.com/Lamantin12/data_science_projects/blob/master/breast_cancer/SEER%20Breast%20Cancer%20Dataset.pdf) pdf.
 ## Technologies used
-    Data parsing and manipulation:
-        - pandas
-        - numpy  
-    Visualization:
-        - matplotlib
-        - seaborn
-    Modeling:  
-        - sklearn
-        - catboost
-        - xgboost
-    Dealing with inbalanced data: 
-        - SMOTE
-        - SMOTENC
-        - ADASYN
+* Data parsing and manipulation:
+    * pandas
+    * numpy  
+* Visualization:
+    * matplotlib
+    * seaborn
+* Modeling:  
+    * sklearn
+    * catboost
+    * xgboost
+* Dealing with inbalanced data: 
+    * SMOTE
+    * SMOTENC
+    * ADASYN
